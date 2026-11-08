@@ -1,4 +1,4 @@
-# ProGear Sales AI - Okta AI Agent Governance Demo
+# ProGear Sales AI - Okta AI Agent Governance Demo 
 
 > **Enterprise AI Agent security demonstration** showcasing Okta AI Agent Governance with Cross App Access (XAA), ID-JAG token exchange, and role-based access control.
 
